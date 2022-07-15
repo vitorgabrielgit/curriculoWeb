@@ -1,2 +1,2 @@
 # curriculoWeb.github.io
- Curriculo web para escolas
+ Curriculo web para escola
